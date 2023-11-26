@@ -1,0 +1,1 @@
+<img src=".\images\divers\Bandeau1280.png"/>
