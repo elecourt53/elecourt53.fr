@@ -1,0 +1,23 @@
+.centrer
+{
+text-align:center
+    
+}
+
+.centrerimage
+{
+    display:flex;
+    justify-content: center;
+align-items: center;
+}
+
+
+body
+{
+    background-image:url('../images/divers/fondMarbre.jpg');
+}
+
+tr:first-child
+{
+    background-color: coral;
+}
